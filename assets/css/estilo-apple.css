@@ -237,20 +237,24 @@ footer {
   background: #f8f9fa;
   border-radius: 12px !important;
   padding: 20px;
-  box-shadow: 24px 22px 24px 9px rgba(0,0,0,0.1);
+  box-shadow: 24px 22px 24px 9px rgba(0, 0, 0, 0.1);
   color: #989898;
   transition: transform 0.3s ease-in-out;
 }
+
 .depoimento-card footer {
   border-radius: 200px;
   margin-top: 2em;
 }
+
 .depoimento-card:hover {
   color: white;
 }
-.mt-10{
+
+.mt-10 {
   margin-top: 10vh !important;
 }
+
 .depoimento-card:hover {
   transform: scale(1.05);
   background: #d0d0d0;
@@ -261,7 +265,8 @@ footer {
   font-style: italic;
   margin-bottom: 10px;
 }
-.footer-rating{
+
+.footer-rating {
   border-radius: 10px;
 }
 
