@@ -248,7 +248,9 @@ footer {
 .depoimento-card:hover {
   color: white;
 }
-
+.mt-10{
+  margin-top: 10vh !important;
+}
 .depoimento-card:hover {
   transform: scale(1.05);
   background: #d0d0d0;
