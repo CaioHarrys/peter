@@ -118,6 +118,7 @@ footer {
 }
 
 .navbar-nav .nav-link {
+  
   position: relative;
   color: #0b0b0b;
   transition: color 0.3s ease;
